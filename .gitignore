@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Output folders
+bin/
+out/
+
+# VS Code settings
+.vscode/
+
+# JavaFX SDK
+javafx/
+
+# Log files
+*.log
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
